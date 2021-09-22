@@ -4,7 +4,7 @@ from sample_config import Config
 class Development(Config):
     # get this values from the my.telegram.org
     APP_ID = 7676896
-    API_HASH = 5e746f6c5e08549d122ff7fe9d5df5f1
+    API_HASH = "5e746f6c5e08549d122ff7fe9d5df5f1"
     # the name to display in your alive message
     ALIVE_NAME = kzreboostbot
     # create any PostgreSQL database (i recommend to use elephantsql) and paste that link here
